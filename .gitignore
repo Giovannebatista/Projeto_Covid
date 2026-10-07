@@ -8,3 +8,6 @@ __pycache__/
 
 # Arquivos de sistema
 .DS_Store
+
+*pkl
+*csv
